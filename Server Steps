@@ -57,7 +57,7 @@ DOCKER FILE
 7)cd SDM
 8)git clone
 9)ls
-10)cd SDM_P
+10)cd Software-Development-Methodology
 11)sudo apt install docker.io
 12)sudo systemctl --type=service --state=running
 13)ctrl+c
